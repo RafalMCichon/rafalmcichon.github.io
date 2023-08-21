@@ -1,7 +1,7 @@
 *Front-end Developer & User Experience Designer*
 
 📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)  
-📞 [201-245-5177](tel:2012455177)  
+📞 [201-245-5177](tel:+12012455177)  
 🌐 [rafalmcichon.com](https://rafalmcichon.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon)
 
