@@ -1,17 +1,9 @@
-
 <!-- *** uncomment h1 for .pdf -->
-
-<!-- # Rafal M Cichon
-*Front-end Developer & User Experience Designer*
-
-📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com) | 📞 [201-245-5177](tel:+12012455177) | 🌐 [rafalmcichon.com](https://rafalmcichon.com/)
-🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon) -->
-
+# Rafal M Cichon
 <!-- *** end uncomment h1 for .pdf -->
 
-<!-- create .pdf:
-
-install:
+<!-- *** create .pdf: -->
+<!-- install:
 brew reinstall grip (GitHub Readme Instant Preview)
 
 command:
@@ -20,7 +12,8 @@ grip -b README.md --user-content --wide
 ```
 
 then:
-CMD+P and Save as PDF -->
+CMD+P and Save as PDF  -->
+<!-- *** end create .pdf: -->
 
 *Front-end Developer & User Experience Designer*
 
