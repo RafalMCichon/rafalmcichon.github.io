@@ -1,6 +1,13 @@
 
-<!-- uncomment h1 for .pdf -->
-<!-- # Rafal M Cichon -->
+<!-- *** uncomment h1 for .pdf -->
+
+<!-- # Rafal M Cichon
+*Front-end Developer & User Experience Designer*
+
+📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com) | 📞 [201-245-5177](tel:+12012455177) | 🌐 [rafalmcichon.com](https://rafalmcichon.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon) -->
+
+<!-- *** end uncomment h1 for .pdf -->
 
 <!-- create .pdf:
 
@@ -17,14 +24,10 @@ CMD+P and Save as PDF -->
 
 *Front-end Developer & User Experience Designer*
 
-📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com) | 📞 [201-245-5177](tel:+12012455177) | 🌐 [rafalmcichon.com](https://rafalmcichon.com/)
-🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon)
-
-
-<!-- 📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)  
+📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)  
 📞 [201-245-5177](tel:+12012455177)  
 🌐 [rafalmcichon.com](https://rafalmcichon.com/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon) -->
+🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon)
 
 ## Summary
 
