@@ -1,5 +1,5 @@
 <!-- *** uncomment h1 for .pdf -->
-# Rafal M Cichon
+<!-- # Rafal M Cichon -->
 <!-- *** end uncomment h1 for .pdf -->
 
 <!-- *** create .pdf: -->
