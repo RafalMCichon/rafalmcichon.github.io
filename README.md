@@ -1,9 +1,30 @@
+
+<!-- uncomment h1 for .pdf -->
+<!-- # Rafal M Cichon -->
+
+<!-- create .pdf:
+
+install:
+brew reinstall grip (GitHub Readme Instant Preview)
+
+command:
+```
+grip -b README.md --user-content --wide
+```
+
+then:
+CMD+P and Save as PDF -->
+
 *Front-end Developer & User Experience Designer*
 
-📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)  
+📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com) | 📞 [201-245-5177](tel:+12012455177) | 🌐 [rafalmcichon.com](https://rafalmcichon.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon)
+
+
+<!-- 📧 [rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)  
 📞 [201-245-5177](tel:+12012455177)  
 🌐 [rafalmcichon.com](https://rafalmcichon.com/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon)
+🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon) -->
 
 ## Summary
 
@@ -18,7 +39,6 @@ Front-end Developer and UX Designer with 10 years of hands-on experience in spea
 **Website**: [InventiveSoftwareLLC.com](http://www.marble.com/)
 - Coordinated between 3D artists and programmers to create the WebGL compositing library.
 - Showcased cutting-edge technology at The Garage at SIGGRAPH 2018, a dedicated space for start-ups and emerging companies to demonstrate innovative solutions.
-- Established long-term vision and strategy for company products.
 - Managed the entire product life cycle from concept to design and support.
 - Led web application development projects.
 - Provided technical leadership and collaborated with managers and developers.
@@ -54,10 +74,10 @@ Front-end Developer and UX Designer with 10 years of hands-on experience in spea
 - **Frameworks/Libraries**: Expertise in React.js, Node.js, Gatsby, and GraphQL.
 - **Tools**: Git and GitHub for version control and collaboration.
 
-### Design
+<!-- ### Design
 - **User Experience (UX) Design**: Comprehensive knowledge of User Research, Wireframing, Prototyping.
 - **UI Design Tools**: Proficient in Figma and Adobe XD.
-- **Responsive Design**: Enthusiast of Mobile-First Approach.
+- **Responsive Design**: Enthusiast of Mobile-First Approach. -->
 
 
 ## Education
