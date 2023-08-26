@@ -24,7 +24,7 @@ CMD+P and Save as PDF  -->
 
 ## Summary
 
-Front-end Developer and UX Designer with 10 years of hands-on experience in spearheading web application development, including a patented WebGL compositing library. Recognized for a meticulous approach, Rafal delivers innovations that streamline processes and elevate user experiences. Expertise in React.js, Node.js, and proactive leadership, he has played a pivotal role in enhancing online tools, leading to a 300% surge in completed online estimates.
+Front-end Developer and UX Designer with 10 years of hands-on experience in spearheading web application development, including a patented WebGL compositing library. Recognized for a meticulous approach, Rafal delivers innovations that streamline processes and elevate user experiences. Expertise in React.js, Node.js, Next.js, and proactive leadership, he has played a pivotal role in enhancing online tools, leading to a 300% surge in completed online estimates.
 
 ## Professional Experience
 
@@ -67,11 +67,11 @@ Front-end Developer and UX Designer with 10 years of hands-on experience in spea
 
 ### Development
 - **Languages**: JavaScript (ES6), CSS (BEM), HTML5, and TypeScript.
-- **Frameworks/Libraries**: Expertise in React.js, Node.js, Gatsby, and GraphQL.
+- **Frameworks/Libraries**: Expertise in React.js, Node.js, Gatsby, Next.js, and GraphQL.
 - **Tools**: Git and GitHub for version control and collaboration.
 
 <!-- ### Design
-- **User Experience (UX) Design**: Comprehensive knowledge of User Research, Wireframing, Prototyping.
+- **User Experience (UX) Design**: Comprehensive knowledge of User Research, Wireframing, and Prototyping.
 - **UI Design Tools**: Proficient in Figma and Adobe XD.
 - **Responsive Design**: Enthusiast of Mobile-First Approach. -->
 
