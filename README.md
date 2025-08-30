@@ -15,7 +15,7 @@ then:
 CMD+P and Save as PDF  -->
 <!-- *** end create .pdf: -->
 
-*IT Manager | Automation & Integration Specialistr*
+*IT Manager | Automation & Integration Specialist*
 
 📍 Towaco, NJ • Open to on‑site/hybrid roles within ~20 miles      
 📧 Email:[rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)             
