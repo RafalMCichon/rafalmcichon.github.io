@@ -3,7 +3,8 @@ title: Rafal M Cichon
 description: Digital Resume.
 show_downloads: false
 #google_analytics: UA-1000-1
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: null
 
 #theme: minima
 #email: rafalmcichon@gmail.com
