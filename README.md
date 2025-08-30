@@ -17,9 +17,9 @@ CMD+P and Save as PDF  -->
 
 *IT Manager | Automation & Integration Specialistr*
 
-📍 Towaco, NJ • Open to on‑site/hybrid roles within ~20 miles
-📧 Email:[rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)
-📞 Phone:[201-245-5177](tel:+12012455177)
+📍 Towaco, NJ • Open to on‑site/hybrid roles within ~20 miles      
+📧 Email:[rafalmcichon@gmail.com](mailto:rafalmcichon@gmail.com)             
+📞 Phone:[201-245-5177](tel:+12012455177)           
 🔗 [LinkedIn](https://www.linkedin.com/in/rafalmcichon/) | [GitHub](https://github.com/RafalMCichon) | [Twitter](https://twitter.com/rafalmcichon) | Portfolio: [rafalmcichon.com](https://rafalmcichon.com/) 
 
 ## Summary
